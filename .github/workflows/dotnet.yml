@@ -36,4 +36,3 @@ jobs:
         testProject: 'SafariPark_Final/SafariParkTests/SafariParkTests.csproj'
         output: 'lcov.info'
         outputFormat: 'lcov'
-        excludes: '[program]*,[test]test.*
